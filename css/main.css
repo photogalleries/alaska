@@ -1,0 +1,29 @@
+
+h2 {
+    font-family: 'Jost', 'Futura', 'Verdana', 'sans-serif';
+    font-size: 18pt;
+    font-weight: 900;
+    }
+
+
+h4 {
+    font-family: 'Jost', 'Futura', 'Verdana', 'sans-serif';
+    font-size: 13pt;
+    font-weight: 500;
+    }
+
+
+p {
+    font-family: 'Jost', 'Futura', 'Verdana', 'sans-serif';
+    font-size: 13pt;
+    }
+
+a {
+    color:inherit;
+    }
+
+
+body {
+    background-color:#f4f9fc;
+    }
+
