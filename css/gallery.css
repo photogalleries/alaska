@@ -1,12 +1,14 @@
 
-li {
+body {
     font-family: 'Jost', 'Futura', 'Verdana', 'sans-serif';
+    }
+
+li {
     font-size: 18pt;
     font-weight: 900;
     }
 
 p {
-    font-family: 'Jost', 'Futura', 'Verdana', 'sans-serif';
     font-size: 13pt;
     }
 
@@ -55,28 +57,5 @@ a {
         max-width: calc(100vw - 80px);
         }
     }
-
-
-ul {
-  list-style-type: none;
-  margin: 0;
-  padding: 0;
-  overflow: hidden;
-  background-color: #555;
-  position: fixed;
-  top: 0;
-  width: 100%;
-  white-space: nowrap;
-}
-
-li {
-  float: left;
-  text-align: center;
-  display: inline-block;
-  color: white;
-  padding: 14px 20px;
-  text-decoration: none;
-  max-width: 100px;
-}
 
 
