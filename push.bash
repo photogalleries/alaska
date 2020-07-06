@@ -4,7 +4,7 @@ cd $(dirname ${BASH_SOURCE[0]})
 cd ../_site
 
 git init
-git remote add origin git@github.com:photogalleries/animals.git
+git remote add origin git@github.com:photogalleries/alaska.git
 git checkout -b gh-pages
 
 touch .nojekyll
